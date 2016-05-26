@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reserva Restaurant</string>
+    <string name="mailDirectionSend">schimal12@gmail.com</string>
+    <string name="mailDirectionPass">11235813Sebastianchiminem</string>
+    <string name="mailDirectionFrom">Reserva Prueba</string>
+    <string name="mailDirectionSubject">Confirmación</string>
+    <string name="mailDirectionBody">Se manda este correo para confirmar la reserva</string>
+</resources>
